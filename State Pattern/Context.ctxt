@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Context()
+comment1.params=
+comment1.target=State\ getState()
+comment2.params=state
+comment2.target=void\ setState(State)
+numComments=3
