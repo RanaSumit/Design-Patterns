@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=UpCommand\ DownCommand
+comment0.target=Switch(Command,\ Command)
+comment1.params=
+comment1.target=void\ flipUp()
+comment2.params=
+comment2.target=void\ flipDown()
+numComments=3
